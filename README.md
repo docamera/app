@@ -16,6 +16,35 @@ to ma być coś co będzie w stanie zrobić detekcję np. niszczenia mienia, pod
 czyli ma być nie wrażliwe na sam fakt wykrycia obiektu a być wrażliwe na coś co jest uznane za czynność zakazaną, np obskianie muru
 
 
+## jak to działa?
+
+użytkownik otwiera aplikację komunikatora
+łaczy się z Asystentem DoCamera
+Mówi podczas video rozmowy, że chce zobaczyć kamerę:
+na parking, 
+przy bramie
+przy wejściu do budynku
+a następnie mówi, żeby pokazał mu co się wydarzyło wczoraj 
+i na wyświetlaczu pokazują się kolejne zdarzenia i obiekty:
+w nocy wjazd samochodu przez bramę
+Parkuje na parkingu
+osoba która wchodzi do budynku
+
+
+user opens messenger application
+connects to the DoCamera Assistant
+He says during the video call that he wants to see the camera:
+on parking,
+at the gate
+at the entrance to the building
+and then tells him to show him what happened yesterday
+and subsequent events and objects appear on the display:
+at night, car entry through the gate
+He parks in the parking lot
+a person who enters a building
+
+
+
 ## rozwiazanie
 
  przykładowa struktura menu systemu:
