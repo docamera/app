@@ -1,9 +1,24 @@
 # [app.docamera.com - web interface](http://app.docamera.com)
 
 
+system powiadamiania o zdarzeniach w CCTV w bezpieczny i selektywny sposób
+Proste narzedzie, podajesz URL streama i system uczy się tła i obiektów i zjawisk zachodzących 
+a w momencie gdy coś się dzieje to kolekcjonuje te dane i potem uczy się od osoby zarzadzajacej co ma być rozpoznane jako zagrożenie
+
++ czy firmy ochroniarskie potrzebują aż tak zaawansowanego rozwiązania?
+
+
++ Oni chyba już dzisiaj mają w monitoringu detekcję ruchu itp. Jak coś się dzieje, to ochroniarz z kantorku widzi na monitorze i idzie sprawdzić.
+Mówimy tutaj o zastępowaniu ochroniarzy dronami i psami wypuszczanymi z klatek automatycznie na placach otwartych
+ 
++ Po co stale uczyć ten system? Przecież tam musisz identyfikować tylko kilka obiektów - kot, człowiek, ptak itp.
+to ma być coś co będzie w stanie zrobić detekcję np. niszczenia mienia, podczas spaceru wielu ludzi
+czyli ma być nie wrażliwe na sam fakt wykrycia obiektu a być wrażliwe na coś co jest uznane za czynność zakazaną, np obskianie muru
+
+
 ## rozwiazanie
 
-menu systemu:
+ przykładowa struktura menu systemu:
 
 + lista użytkowników
   + prawa dostępu do
